@@ -14,3 +14,5 @@ Currently in no particular order.
 - [JF002/Pinetime -- C/C++ using NRF52-SDK and FreeRTOS](https://github.com/JF002/Pinetime)
 - [maidenone/PineTimeWeb -- Currently Empty](https://github.com/maidenone/PineTimeWeb)
 - [bosmoment/PineTime-apps -- RIOT OS](https://github.com/bosmoment/PineTime-apps)
+- [SuperPrower/pinetime_zephyr_sample_fw](https://github.com/SuperPrower/pinetime_zephyr_sample_fw)
+- [kaythe/pinetime-os -- FreeRTOS](https://github.com/kaythe/pinetime-os)
