@@ -9,6 +9,7 @@ A list of [PineTime](https://www.pine64.org/pinetime/) projects! Please fork and
 ### FreeRTOS
 - [JF002/Pinetime -- C/C++ using NRF52-SDK and FreeRTOS](https://github.com/JF002/Pinetime)
 - [kaythe/pinetime-os -- FreeRTOS](https://github.com/kaythe/pinetime-os)
+- [arteeh/pinetimeos -- Just notes and design so far, will implement FreeRTOS later](https://gitlab.com/arteeh/pinetimeos)
 
 ### MbedOS
 - [sethitow/mbed-pinetime](https://github.com/sethitow/mbed-pinetime)
