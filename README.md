@@ -2,7 +2,7 @@
 
 A list of [PineTime](https://www.pine64.org/pinetime/) projects! Please fork and contibute. Initially started at https://github.com/sethitow/awesome-pinetime.
 
-![PineTime banner](media/PineTime_leaflet.jpg =250x)
+![PineTime banner](media/PineTime_leaflet.jpg)
 
 ## Projects
 Currently in no particular order.
