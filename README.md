@@ -23,6 +23,10 @@ A list of [PineTime](https://www.pine64.org/pinetime/) projects! Please fork and
 ### TinyGo
 - [aykevl/go-smartwatch](https://github.com/aykevl/go-smartwatch/blob/master/smartwatch_pinetime-devkit0.go)
 
+### WASP OS
+- [daniel-thompson/wasp-os](https://github.com/daniel-thompson/wasp-os)]
+- [purlupar/wasp-faces -- watchfaces only, for wasp](https://gitlab.com/purlupar/wasp-faces)
+
 ### Zephyr
 - [najnesnaj/pinetime-zephyr](https://github.com/najnesnaj/pinetime-zephyr)
 - [SuperPrower/pinetime_zephyr_sample_fw](https://github.com/SuperPrower/pinetime_zephyr_sample_fw)
