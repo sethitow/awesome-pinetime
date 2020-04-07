@@ -30,6 +30,7 @@ A list of [PineTime](https://www.pine64.org/pinetime/) projects! Please fork and
 ### Zephyr
 - [najnesnaj/pinetime-zephyr](https://github.com/najnesnaj/pinetime-zephyr)
 - [SuperPrower/pinetime_zephyr_sample_fw](https://github.com/SuperPrower/pinetime_zephyr_sample_fw)
+- [PineTime Hermes](https://github.com/Dejvino/pinetime-hermes-firmware)
 
 ### No OS
 - [maidenone/PineTimeWeb -- Currently Empty](https://github.com/maidenone/PineTimeWeb)
