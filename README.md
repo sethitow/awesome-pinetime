@@ -33,6 +33,9 @@ A list of [PineTime](https://www.pine64.org/pinetime/) projects! Please fork and
 - [PineTime Hermes](https://github.com/Dejvino/pinetime-hermes-firmware)
 - [Hypnos](https://github.com/endian-albin/pinetime-hypnos)
 
+### Arduino compatible
+- [ATCwatch](https://github.com/atc1441/ATCwatch)
+
 ### No OS
 - [maidenone/PineTimeWeb -- Currently Empty](https://github.com/maidenone/PineTimeWeb)
 - [codebot/smartwatch -- Just some notes so far](https://github.com/codebot/smartwatch)
