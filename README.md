@@ -9,6 +9,7 @@ A list of [PineTime](https://www.pine64.org/pinetime/) projects! Please fork and
 ### FreeRTOS
 - [InfiniTime -- C/C++ using NRF52-SDK and FreeRTOS](https://github.com/JF002/InfiniTime) This is the default firmware shipped on new PineTime devices.
   - [GTKWatchFace](https://codeberg.org/MorsMortium/GTKWatchFace) Themeable GTK3 watchface for PineTime/InfiniTime
+  - [InfiniEmu](https://github.com/pipe01/InfiniEmu) is an emulator that emulates a full PineTime smartwatch.
 - [kaythe/pinetime-os -- FreeRTOS](https://github.com/kaythe/pinetime-os)
 - [arteeh/pinetimeos -- Just notes and design so far, will implement FreeRTOS later](https://gitlab.com/arteeh/pinetimeos)
 
